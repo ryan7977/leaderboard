@@ -1,0 +1,16 @@
+{
+  "name": "alliestaxleaderboardv3editing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "chartjs-plugin-datalabels": "^2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
